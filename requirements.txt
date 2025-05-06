@@ -4,6 +4,7 @@ plotly
 pandas
 numpy
 ta
+import matplotlib.pyplot as plt
 
 
 
