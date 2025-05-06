@@ -1,11 +1,12 @@
-streamlit 
-yfinance 
-plotly
+streamlit
 pandas
 numpy
-ta
+yfinance
 matplotlib
 seaborn
-
-
+scipy
+arch
+statsmodels
+fpdf
+xlsxwriter
 
